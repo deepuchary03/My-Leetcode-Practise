@@ -8,9 +8,7 @@ class Solution {
         return -1;
     }
 }
-
-//my submission beat 100% of other submissions' runtime.
-
+//my submission beat 100% of other submissions' runtime
 //JavaScript code
 /**
  * @param {number[]} nums
